@@ -1,0 +1,12 @@
+{
+	"type":"TEXT_CONFIG",
+	"data":
+	[
+		{"ID":1,"ID":0,"attr1":"11","attr2":"1","num1":1,"num2":枚举1,"enum":0},
+		{"ID":2,"ID":0,"attr1":"12","attr2":"2","num1":2,"num2":枚举2,"enum":0},
+		{"ID":3,"ID":0,"attr1":"13","attr2":"3","num1":3,"num2":枚举3,"enum":0},
+		{"ID":4,"ID":0,"attr1":"14","attr2":"4","num1":4,"num2":枚举4,"enum":0},
+		{"ID":5,"ID":0,"attr1":"15","attr2":"5","num1":5,"num2":枚举5,"enum":0}
+	],
+	"md5":"1ce661c13b397550e0e574b32069d833"
+}
